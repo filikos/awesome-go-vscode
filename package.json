@@ -1,0 +1,41 @@
+{
+	"name": "awesome-go-vscode",
+	"displayName": "awesome-go-vscode",
+	"description": "vs-code ext. pack for optimised for Golang development",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/microsoft/vscode-wordcount.git"
+	},
+	"extensionPack": [
+		"awehook.vscode-blink-mind",
+		"bierner.markdown-mermaid",
+		"eamodio.gitlens",
+		"EliverLara.andromeda",
+		"euskadi31.json-pretty-printer",
+		"fehey.brackets-light-pro",
+		"formulahendry.code-runner",
+		"golang.go",
+		"johnpapa.vscode-peacock",
+		"josephcz.vscode-markdown-mindmap-preview",
+		"k--kato.intellij-idea-keybindings",
+		"maracko.json-to-go",
+		"mhutchie.git-graph",
+		"ms-vscode-remote.remote-containers",
+		"ms-vscode-remote.remote-ssh",
+		"ms-vscode-remote.remote-ssh-edit",
+		"ms-vscode.remote-explorer",
+		"ms-vsliveshare.vsliveshare",
+		"premparihar.gotestexplorer",
+		"redhat.vscode-yaml",
+		"trybick.terminal-zoom",
+		"wraith13.zoombar-vscode",
+		"yzhang.markdown-all-in-one"
+	]
+}

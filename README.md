@@ -43,8 +43,6 @@ To install the Awesome Go Development Extension Pack, follow these simple steps:
 <details><summary>settings.json</summary>
 <p>
 
-### Example Response Body:
-
 ```json
 {
   "workbench.colorTheme": "Andromeda",
@@ -132,7 +130,7 @@ To install the Awesome Go Development Extension Pack, follow these simple steps:
 <details><summary>settings.json explained</summary>
 <p>
 
-### Items:
+#### Items
 - "workbench.colorTheme": "Andromeda": Sets the color theme of the IDE to Andromeda.
 - "update.mode": "start": Configures the update mode to check for updates at startup.
 - "liveshare.presence": false: Disables the presence feature in Live Share.

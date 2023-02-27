@@ -2,6 +2,8 @@
 	"name": "awesome-go-vscode",
 	"displayName": "awesome-go-vscode",
 	"description": "vs-code ext. pack for optimised for Golang development",
+	"publisher": "filikos",
+	"publisherid": "filikos",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.75.0"
@@ -11,7 +13,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/microsoft/vscode-wordcount.git"
+		"url": "https://github.com/filikos/awesome-go-vscode"
 	},
 	"extensionPack": [
 		"awehook.vscode-blink-mind",

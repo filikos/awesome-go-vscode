@@ -1,7 +1,6 @@
 # Awesome Go Development Extension Pack
 
 This is an extension pack for Visual Studio Code that is specifically designed to help Go developers be productive and efficient in their development work. The extension pack includes a carefully curated set of extensions that are designed to work together seamlessly to provide a comprehensive set of tools and features for working with Go code.
-Included Extensions
 
 ## How to Install
 

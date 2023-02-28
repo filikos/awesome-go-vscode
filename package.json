@@ -1,9 +1,10 @@
 {
 	"name": "awesome-go-vscode",
-	"displayName": "awesome-go-vscode",
-	"description": "vs-code ext. pack for optimised for Golang development",
+	"displayName": "Awesome Golang VSCode Pack",
+	"description": "This pack gives you a list curated tools for Golang development within VSCode",
 	"publisher": "filikos",
 	"publisherid": "filikos",
+	"icon": "images/logo.png",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.75.0"
